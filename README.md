@@ -1,6 +1,5 @@
 Hi, I’m @Snoworries90!
 I’m interested in all things to do with software engineering. 
-I'm currently learning about operating platforms.
 You can reach me at snoworries@me.com.
 
 <!---
